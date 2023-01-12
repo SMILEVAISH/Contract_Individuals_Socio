@@ -9,8 +9,6 @@ from userApp.models import CustomUser as user
 
 
 # Create your models here.
-
-
 '''
 Contract Table
 '''
