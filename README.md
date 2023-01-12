@@ -1,0 +1,2 @@
+# Contract_Individuals_Socio
+SocialApp
